@@ -9,7 +9,7 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
 [![Supabase](https://img.shields.io/badge/Supabase-PostgreSQL-3ECF8E?style=for-the-badge&logo=supabase)](https://supabase.com/)
 
-**[Live Demo](https://divyaflow.vercel.app)** • **[Documentation](./SUPABASE_SETUP.md)** • **[Demo Accounts](#-demo-accounts)**
+**[Live Demo](https://divyaflow.vercel.app)** • **[Documentation](./SUPABASE_SETUP.md)** • **[Demo Accounts](#-demo-accounts)** • **[YOUTUBE](https://youtu.be/-5Q7jBZp9ds)** 
 
 ---
 
@@ -540,7 +540,7 @@ in the Software without restriction...
 
 ## 👥 Team
 
-Built with ❤️ by **[Rhythm Patel](https://github.com/rhythm298)**
+Built with ❤️ by **[Rhythm Mehta](https://github.com/rhythm298)**
 
 ### Project Stats
 
